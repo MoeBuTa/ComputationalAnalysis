@@ -1,2 +1,2 @@
-# DataVisualizationProject
-a project for practicing data visualization.
+# ComputationalAnalysis
+data visualisation project written in R.
